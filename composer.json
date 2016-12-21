@@ -1,0 +1,6 @@
+{
+  "require": {
+    "sergeytsalkov/meekrodb": "*",
+    "jstayton/google-maps-geocoder": "*"
+  }
+}
